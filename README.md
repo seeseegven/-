@@ -13,7 +13,7 @@
 <h3>使用anaconda进行环境管理，使用pip进行第三方库的安装</h3>
 
 ![Logo](/image/cv2_torch.png "cv2_torch")
-![Logo](/image/c++.png "c++")
+![Logo](/image/c++.png "C++")
 
 ### 3.ros2 简单验证 
 ![Logo](/image/talker.png "talk")
