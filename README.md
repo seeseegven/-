@@ -1,6 +1,8 @@
 # <center>航模队任务<center>
 # ---------------------------------------------------
 ## <center>My Project
+### 遇到的问题通过问ai或B站搜视频或百度上找，基本上解决，但是因为是三个平台混合，也很难指定具体的链接，即使是同一个平台也是看了不止一个作者。
+
 ### 1.语言切换
 <h4>使用语言支持来增加中文输入</h4>
 
@@ -14,6 +16,10 @@
 
 ![Logo](/image/cv2_torch.png "cv2_torch")
 ![Logo](/image/c++.png "C++")
+
+<h4>opencv打开图片</h4>
+
+![Logo](/image/opencv.png "opencv")
 
 ### 3.ros2 简单验证 
 ![Logo](/image/talker.png "talk")
