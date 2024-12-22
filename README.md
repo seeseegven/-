@@ -23,4 +23,4 @@
 
 ### 3.ros2 简单验证 
 ![Logo](/image/talker.png "talk")
-![logo](https://github.com/seeseegven/-/image/listener.png "listen")
+![logo](/image/listener.png "listen")
